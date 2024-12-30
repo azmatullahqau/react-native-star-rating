@@ -7,17 +7,17 @@ import { createIconSetFromIcoMoon } from 'react-native-vector-icons';
 
 // Third party imports
 import Button from './Button';
-import EntypoIcons from 'react-native-vector-icons/Entypo';
-import EvilIconsIcons from 'react-native-vector-icons/EvilIcons';
-import FeatherIcons from 'react-native-vector-icons/Feather';
-import FontAwesomeIcons from 'react-native-vector-icons/FontAwesome';
-import FoundationIcons from 'react-native-vector-icons/Foundation';
-import IoniconsIcons from 'react-native-vector-icons/Ionicons';
-import MaterialIconsIcons from 'react-native-vector-icons/MaterialIcons';
-import MaterialCommunityIconsIcons from 'react-native-vector-icons/MaterialCommunityIcons';
-import OcticonsIcons from 'react-native-vector-icons/Octicons';
-import ZocialIcons from 'react-native-vector-icons/Zocial';
-import SimpleLineIconsIcons from 'react-native-vector-icons/SimpleLineIcons';
+import EntypoIcons from '@expo/vector-icons/Entypo';
+import EvilIconsIcons from '@expo/vector-icons/EvilIcons';
+import FeatherIcons from '@expo/vector-icons/Feather';
+import FontAwesomeIcons from '@expo/vector-icons/FontAwesome';
+import FoundationIcons from '@expo/vector-icons/Foundation';
+import IoniconsIcons from '@expo/vector-icons/Ionicons';
+import MaterialIconsIcons from '@expo/vector-icons/MaterialIcons';
+import MaterialCommunityIconsIcons from '@expo/vector-icons/MaterialCommunityIcons';
+import OcticonsIcons from '@expo/vector-icons/Octicons';
+import ZocialIcons from '@expo/vector-icons/Zocial';
+import SimpleLineIconsIcons from '@expo/vector-icons/SimpleLineIcons';
 
 const iconSets = {
   Entypo: EntypoIcons,
